@@ -1,0 +1,29 @@
+html,body,table,thead,tbody,tr,th,td{
+    margin:0;
+    padding:0;
+}
+.tab{
+    margin:0 auto;
+    border-collapse: collapse;
+    text-align: center;
+    border:3px solid #000;
+}
+.tab th,.tab td{
+    width:120px;
+    height: 35px;
+    line-height: 35px;
+    border:1px solid #000;
+}
+.tab th{
+    background: #000;
+    color: #fff;;
+}
+.rank{
+    cursor: pointer;
+}
+.bg1{
+    background:lightcyan;
+}
+.bg2{
+    background: lightsalmon;
+}

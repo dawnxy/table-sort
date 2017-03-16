@@ -1,0 +1,7 @@
+[
+    {"country":"中国","captial":"北京","population":14,"GDP":65,"develop":"0"},
+    {"country":"法国","captial":"巴黎","population":10,"GDP":40,"develop":"1"},
+    {"country":"韩国","captial":"首尔","population":5,"GDP":25,"develop":"0"},
+    {"country":"日本","captial":"东京","population":7,"GDP":17,"develop":"0"},
+    {"country":"美国","captial":"华盛顿","population":8,"GDP":30,"develop":"1"}
+]
