@@ -94,3 +94,4 @@ function tableSort(n) {
     changeBg();
 }
 
+console.log(1)
