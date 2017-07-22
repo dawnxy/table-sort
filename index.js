@@ -93,5 +93,3 @@ function tableSort(n) {
     tBody.appendChild(frg);
     changeBg();
 }
-
-console.log(1)
